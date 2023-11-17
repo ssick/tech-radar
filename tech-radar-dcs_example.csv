@@ -1,0 +1,7 @@
+name,ring,quadrant,isNew,description
+Kotlin,Trial,languages-and-frameworks,FALSE,"Backend development; the better Java"
+Java,Adopt,languages-and-frameworks,FALSE,"Backend development"
+"Azure Active Directory",Adopt,Platforms,FALSE,"Azure AD for authentication"
+Confluence,Adopt,Tools,FALSE,"Atlassian Confluence"
+"Architecture Decision Records",Adopt,Techniques,FALSE,"The process and documentation format to make architecture decisions"
+C#,Hold,languages-and-frameworks,FALSE,"Deprecated"
